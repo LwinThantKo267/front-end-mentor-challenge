@@ -1,3 +1,1 @@
-#
-
-This is a challenge from front-end mentor.
+# This is a challenge from front-end mentor.
